@@ -1,0 +1,79 @@
+##a=45
+#b=78
+#print(a+b)##
+
+#a=[1,2,3,4]
+#print(type(a))
+
+a="rohith"
+b="suji"
+print(a,b)
+print("python    \tis\tamazing")
+
+a=2.899
+b=7.5678
+print(a%b,a/b)
+
+type(a)
+type(2.9)
+
+thistuple=("apple banana")
+print(len(thistuple))
+
+a="apglghlhgjhjtegsgygey"
+print(list(a))
+print(tuple(a))
+print(set(a))
+thisdict={
+   "name":"suji",
+    "class":"python",
+    "year":"2022",
+}
+print(thisdict["year"])
+
+list_a="ldchcjhcluh"
+list_b=list_a
+print(list_a,2+3)
+
+
+list_a="my name is rohith"
+w=list_a.split("o")
+print(w)
+list_a=list(range(34))
+print(list_a)
+
+###numbers="123 4"
+#num_list=numbers.s ###
+
+
+
+
+r="rohith"
+print(r[4])
+list_a=[1,2,3,4,5]
+list_b=list_a[-5:-1]
+print(list_b)
+m=[1,2,3,4]
+n=10
+list_a=m*n
+print(list_a)
+
+
+a_1="apple"
+b_1="apPle"
+print(a_1[0:3]==b_1[0:3])
+
+a=[1,2,3]
+b=[4,5,6]
+#print(a[0]>b[2])
+
+m=70
+p=60
+c=60
+print((m>=70) and (p>=60) and (c>=60)))
+print((m+p+c>=180))
+
+
+
+
+

@@ -1,0 +1,13 @@
+
+def function():
+    if int(n)%3==0:
+        print("marco")
+    elif int(n)%5==0:
+        print("polo")
+    elif int(n)%3==0 & int(n)%5==0:
+        print("marcopolo")
+    else:
+        print("no")
+function()
+
+
